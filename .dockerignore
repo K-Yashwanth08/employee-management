@@ -1,0 +1,13 @@
+.env
+.git
+.pytest_cache
+.venv
+__pycache__
+*.py[cod]
+*.db
+htmlcov
+.coverage
+tests
+data/HRDataset_v14.csv
+data/raw
+data/exports

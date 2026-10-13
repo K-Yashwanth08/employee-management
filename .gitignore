@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.DS_Store
+*.log
+*.db
+data/exports/
+data/HRDataset_v14.csv
+data/raw/
+.coverage
+htmlcov/
